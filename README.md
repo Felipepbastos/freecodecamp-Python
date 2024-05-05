@@ -3,8 +3,8 @@ Repositorio de projetos com python do FreeCodeCamp do curso de Scientific Comput
 Projetos realizados
 
 
-  Arithmetic Formatter
-  Time Calculator
-  Budget App
-  Polygon Area Calculator
-  Probability Calculator
+   -Arithmetic Formatter
+   -Time Calculator
+   -Budget App
+   -Polygon Area Calculator
+   -Probability Calculator
